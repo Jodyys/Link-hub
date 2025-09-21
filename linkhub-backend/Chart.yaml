@@ -1,0 +1,5 @@
+apiVersion: v2
+name: linkhub-backend
+version: 0.1.0
+description: Helm chart untuk Backend API LinkHub
+appVersion: "1.0.0"
